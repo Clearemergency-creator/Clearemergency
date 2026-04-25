@@ -7,8 +7,6 @@
 
 <title>Clear Emergency - TV Clips & Comedy</title>
 
-<meta name="description" content="Watch 9-1-1, Chicago Fire clips and comedy TV moments on Clear Emergency. Official entertainment channel.">
-
 <style>
 
 body {
@@ -18,7 +16,6 @@ body {
   color: white;
 }
 
-/* HEADER */
 header {
   background: linear-gradient(90deg, #ff2e2e, #990000);
   padding: 25px;
@@ -27,7 +24,6 @@ header {
   font-weight: bold;
 }
 
-/* HERO */
 .hero {
   text-align: center;
   padding: 30px 20px;
@@ -37,7 +33,6 @@ header {
   color: #ccc;
 }
 
-/* BUTTON */
 .cta {
   text-align: center;
   margin: 20px;
@@ -52,13 +47,11 @@ header {
   font-weight: bold;
 }
 
-/* SECTIONS */
 h2 {
   text-align: center;
   margin-top: 40px;
 }
 
-/* VIDEO GRID */
 .grid {
   display: flex;
   flex-wrap: wrap;
@@ -80,7 +73,6 @@ iframe {
   border-radius: 12px;
 }
 
-/* FOOTER */
 footer {
   text-align: center;
   padding: 20px;
